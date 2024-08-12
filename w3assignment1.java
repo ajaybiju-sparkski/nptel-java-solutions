@@ -16,7 +16,7 @@ class MechanicalEngineering extends Department{
   }
 }
 
-lass W03_P1 {
+class W03_P1 {
   public static void main(String[] args) {
     ComputerScience cs = new ComputerScience();
     MechanicalEngineering me = new MechanicalEngineering();
